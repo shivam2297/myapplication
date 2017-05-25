@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_settings"
+        android:title="settings" />
+    <item
+        android:id="@+id/student_detail"
+        android:title="student_detail" />
+    <item
+        android:id="@+id/teacher_detail"
+        android:title="teacher_detail" />
+    <item
+        android:id="@+id/class_chooser"
+        android:title="class_chooser" />
+    <item
+        android:id="@+id/recycler_view_activity"
+        android:title="recycler_view" />
+</menu>
